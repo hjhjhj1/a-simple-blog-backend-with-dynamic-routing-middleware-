@@ -1,7 +1,7 @@
 # a-simple-blog-backend-with-dynamic-routing-middleware-
 开发“动态路由 + 中间件的简易博客后台”
 技术
-Nuxt 3.9 + SSR
+nextjs
 模拟登录状态用 useState 管理（不写后端）
 样式 Tailwind CSS
 功能
